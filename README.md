@@ -1,0 +1,1 @@
+# algoritmo-genetico-adaptativo-f6
